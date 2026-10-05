@@ -1,1 +1,2 @@
-
+first.ipynb :
+linear regression
